@@ -71,4 +71,5 @@ In the CodeSouler session box, use @file to specify a file for/secscan, and Code
 
 ![](https://opencsg-portal-prd.oss-cn-beijing.aliyuncs.com/admin-photo/3b8942a5-b751-45ab-b01a-82375d604a0b)
 
-
+## Acknowledgments
+This project was developed with reference to [Continue](https://github.com/continuedev/continue). We extend our sincerest gratitude to the authors of Continue for their significant contributions.
